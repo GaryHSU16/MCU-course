@@ -39,6 +39,8 @@ This homework is to specify a Innovative project proposal and describe the key f
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
 
+###參考範例
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/sBLNAH2N8Tg" title="【吃到飽評比】多款泡麵Buffet隨你吃 都不用錢！營業24小時 隨時可以去吃｜全品項 清起來！美食 吃到飽 大胃王 吃播｜南投 泡麵土地公 石龍宮｜All You Can Eat Buffet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Taiwan Households = 8.93M (台灣 9百萬戶）
 * [Total number of households in Taiwan from 2010 to 2020(in 1,000s)](https://www.statista.com/statistics/330804/taiwan-national-total-number-of-households/#:~:text=By%20the%20end%20of%202020,households%20in%20the%20previous%20year.)
