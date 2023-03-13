@@ -34,7 +34,6 @@ This homework is to specify a Innovative project proposal and describe the key f
 **所需相關技術：**
 1. 滑軌式機器手臂 
 2. 偵測方式:AI辨識系統
-3. 
 
 ### 系統方塊圖
 
