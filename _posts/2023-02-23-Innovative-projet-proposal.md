@@ -21,42 +21,27 @@ This homework is to specify a Innovative project proposal and describe the key f
 
 ## 料理機器人
 ### 應用功能說明
-1. 操作廚具：咖啡機＋果汁機＋烤麵包機＋微波爐+烤箱+氣炸鍋
-2. 存取冰箱：辨識食物, 存放食材，或取出食材, 送至廚具
+1. 餐具擺放:把乾淨的餐具放到機器人手臂上，再運送至指定地點的餐桌上。
+2. 當遇到人擋路時提醒讓道。
+3. 定位系統可使機器人不走錯路。
 
 ### 設計考量與相關技術
 **系統設計考量：**<br>
-1. 操作方式:垂直升降式手臂 or 懸吊式手臂
-2. 移動方式:兩輪 or 滑軌懸吊
-3. 供電方式:鋰電池
-4. 聯網方式:WiFi或BT to 手機
+1. 移動方式:3or4輪
+2. 供電方式:鋰電池
+3. 聯網方式:WiFi or 超寬頻uwb or RFID定位技術
 
 **所需相關技術：**
-1. 滑軌式機器手臂 ＆ 軟式夾具
-2. 食物辨識分類：Jetson-Nano + IMX219
-3. 電子鼻：氣味感測與辨識 MQ2
+1. 滑軌式機器手臂 
+2. 偵測方式:AI辨識系統
+3. 
 
 ### 系統方塊圖
-![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
 
-###參考範例
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/sBLNAH2N8Tg" title="【吃到飽評比】多款泡麵Buffet隨你吃 都不用錢！營業24小時 隨時可以去吃｜全品項 清起來！美食 吃到飽 大胃王 吃播｜南投 泡麵土地公 石龍宮｜All You Can Eat Buffet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![gary](https://user-images.githubusercontent.com/126163677/224650560-9791581f-e7cc-4016-a35d-0946683391a7.png)
 
-### Taiwan Households = 8.93M (台灣 9百萬戶）
-* [Total number of households in Taiwan from 2010 to 2020(in 1,000s)](https://www.statista.com/statistics/330804/taiwan-national-total-number-of-households/#:~:text=By%20the%20end%20of%202020,households%20in%20the%20previous%20year.)
 
-### Japan Households = 57.2M (日本 5千7百萬戶)
-* [Number of Households in Japan](https://www.helgilibrary.com/indicators/number-of-households/japan/) 
 
-### South Korea Households = 19.9M (南韓 2千萬戶)
-* [Number of Households in South Korea](https://www.helgilibrary.com/indicators/number-of-households/south-korea/)
-
----
-### American Households = 129.93M (美國 1.3億戶)
-* [Number of households in the U.S. from 1960 to 2021(in millions)](https://www.statista.com/statistics/183635/number-of-households-in-the-us/)<br>
-* [The average American household consisted of 2.51 people in 2021.](https://www.statista.com/statistics/183648/average-size-of-households-in-the-us/)<br>
-
----
 
 <br>
 <br>
