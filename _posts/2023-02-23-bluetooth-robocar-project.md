@@ -34,7 +34,7 @@ This project is to implement a bluetooth remote controlled robotcar.
 ### 系統方塊圖
 ![](https://github.com/rkuo2000/MCU-course/blob/main/images/FutureHome_kitchen_robot.png?raw=true)
 
-### robocar
+### 藍芽操控機器車(robocar)
 ![](https://github.com/GaryHSU16/MCU-course/blob/main/images/%E5%BE%AE%E8%99%95%E7%90%86%E6%A9%9F.jpg?raw=true)
 ![](https://github.com/GaryHSU16/MCU-course/blob/main/images/received_193340506350361.jpeg?raw=true)
 <iframe width="900" height="506" src="https://www.youtube.com/embed/QGGFdLfzZkc" title="微控制介面與驅動設計 期中作業-藍芽遙控機器人" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
