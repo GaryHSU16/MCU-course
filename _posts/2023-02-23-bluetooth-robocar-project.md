@@ -32,7 +32,7 @@ This project is to implement a bluetooth remote controlled robotcar.
 ![](https://image.ruten.com.tw/g2/8/d4/16/21440347657238_872.jpg)
 
 ### 系統方塊圖
-![](https://github.com/GaryHSU16/MCU-course/blob/main/images/%E5%BE%AE%E8%99%95%E7%90%86%E6%A9%9F.jpg?raw=true)
+![](https://github.com/GaryHSU16/MCU-course/blob/main/images/ROBOCAR.JPG?raw=true)
 
 ### 藍芽操控機器車(robocar)
 ![](https://github.com/GaryHSU16/MCU-course/blob/main/images/received_193340506350361.jpeg?raw=true)
