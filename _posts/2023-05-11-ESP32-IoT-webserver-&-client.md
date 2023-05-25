@@ -61,7 +61,7 @@
       url += "&H=";
       url += String(humid);
   
-  if(WiFi.status()== WL_CONNECTED){   //Check WiFi connection status
+        if(WiFi.status()== WL_CONNECTED){   //Check WiFi connection status
 
      WiFiClient client;
 
@@ -78,17 +78,17 @@
 
      http.end();  //Close connection
  
-   }else{
-      Serial.println("Error in WiFi connection");   
-   }
+        }else{
+             Serial.println("Error in WiFi connection");   
+        }
   
-  Serial.println();
-  Serial.println("closing connection. going to sleep...");
-  // go to deepsleep for 1 minutes
-  //system_deep_sleep_set_option(0);
-  //system_deep_sleep(1 * 60 * 1000000);
-  delay(1*60*1000);
-}
+        Serial.println();
+        Serial.println("closing connection. going to sleep...");
+        // go to deepsleep for 1 minutes
+        //system_deep_sleep_set_option(0);
+        //system_deep_sleep(1 * 60 * 1000000);
+        delay(1*60*1000);
+        }
 
 ![](https://github.com/GaryHSU16/MCU-course/blob/main/images/1790.jpg?raw=true)
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/gBMwBVS6LMQ" title="server client" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
