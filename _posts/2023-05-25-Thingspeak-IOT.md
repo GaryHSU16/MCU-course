@@ -2,10 +2,10 @@
 ![](https://github.com/GaryHSU16/MCU-course/blob/main/images/Thingspeak.jpg?raw=true)
 ###code of thinkspeak
 
-  #include <WiFi.h> 
-#include "DHT.h"
+    #include <WiFi.h> 
+    #include "DHT.h"
 
-#define DHTPIN 23     // NodeMCU pin D6 connected to DHT11 pin Data
+    #define DHTPIN 23     // NodeMCU pin D6 connected to DHT11 pin Data
 DHT dht(DHTPIN, DHT11, 15);
 
 const char* ssid     = "Redmi Note 11S 5G";
