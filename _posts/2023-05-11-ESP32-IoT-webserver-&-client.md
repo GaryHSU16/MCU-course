@@ -90,7 +90,11 @@
         //system_deep_sleep(1 * 60 * 1000000);
         delay(1*60*1000);
         }
+	
+	
+
 ###code of server
+
 
         #include <WiFi.h> 
 		#include <WebServer.h>
