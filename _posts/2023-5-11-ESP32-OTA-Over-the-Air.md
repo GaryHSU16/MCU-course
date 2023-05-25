@@ -2,15 +2,15 @@
 ![](https://github.com/GaryHSU16/MCU-course/blob/main/images/OTA.JPG?raw=true)
 
     #include <Arduino.h>
-  #include <WiFi.h>
-  #include <AsyncTCP.h>
-  #include <ESPAsyncWebServer.h>
-  #include <AsyncElegantOTA.h>
+    #include <WiFi.h>
+    #include <AsyncTCP.h>
+    #include <ESPAsyncWebServer.h>
+    #include <AsyncElegantOTA.h>
 
-const char* ssid = "YOUR_SSID";
-const char* password = "YOUR_PASSWORD";
+        const char* ssid = "YOUR_SSID";
+        const char* password = "YOUR_PASSWORD";
 
-AsyncWebServer server(80);
+        AsyncWebServer server(80);
 
 void setup(void) {
   Serial.begin(115200);
