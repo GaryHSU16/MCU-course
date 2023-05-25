@@ -1,5 +1,5 @@
 ###OTA
-![]((https://github.com/GaryHSU16/MCU-course/blob/main/images/OTA.JPG?raw=true))
+![](https://github.com/GaryHSU16/MCU-course/blob/main/images/OTA.JPG?raw=true)
 
 #include <Arduino.h>
 #include <WiFi.h>
