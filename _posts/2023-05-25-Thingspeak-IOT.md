@@ -1,6 +1,6 @@
-###Thingspeak溫溼度感測
+### Thingspeak溫溼度感測
 ![](https://github.com/GaryHSU16/MCU-course/blob/main/images/Thingspeak.jpg?raw=true)
-###code of thinkspeak
+### code of thinkspeak
 
     #include <WiFi.h> 
     #include "DHT.h"
