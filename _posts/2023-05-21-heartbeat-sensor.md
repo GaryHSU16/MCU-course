@@ -1,6 +1,6 @@
-###心跳血氧感測
+### 心跳血氧感測
 ![](https://github.com/GaryHSU16/MCU-course/blob/main/images/SENSOR.jpg?raw=true)
-###CODE OF HEARTBEAT SENSOR
+### CODE OF HEARTBEAT SENSOR
 
     #include <Adafruit_GFX.h>        //OLED libraries
     #include <Adafruit_SSD1306.h>
